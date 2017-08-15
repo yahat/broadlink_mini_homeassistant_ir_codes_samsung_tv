@@ -48,3 +48,4 @@ To be used with Home Assistant Broadlink switch component
 |player|stop|JgBGAJSTEjgQOhE5EBYQFQ8VEBYQFRA6DzsPOxAVEBUPFg8WEBUQFRA6EDoRFBAVERQROg8VEDoRFBEUETkQOhE5EhMQOhAADQUAAA==|
 
 
+If you are looking for a specific  code that isn't in the table please open an issue and I will try to find it.
